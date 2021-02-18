@@ -1,5 +1,9 @@
-bqplot
-ipympl
+jupyterlab=3
 ipyvolume
+bqplot
 scipy
-voila
+ipympl
+voila=0.2.6
+ipympl
+xleaflet=0.11.1
+xeus-cling>=0.9
