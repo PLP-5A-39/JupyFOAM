@@ -4,3 +4,4 @@ ipyvolume
 scipy
 voila
 matplotlib
+mplfoam.py
