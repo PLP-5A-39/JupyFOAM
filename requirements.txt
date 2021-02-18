@@ -3,4 +3,4 @@ ipympl
 ipyvolume
 scipy
 voila
-matplotlib.pyplot
+matplotlib
