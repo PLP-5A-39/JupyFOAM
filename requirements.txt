@@ -4,4 +4,4 @@ ipyvolume
 scipy
 voila
 matplotlib
-github.fbob.mplFOAM
+https://github.com/fbob/mplFOAM
